@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.link {
+  margin:.5rem;
+  font-size: 1.5rem;
+}
+
+.friend-form input{
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.friend-form button {
+  margin: 0.75rem
+}
+
+.friend button {
+  margin: .75rem;
+}
+
+.friends-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.friends-container button {
+  margin: .75rem;
+}
+
+h2 {
+  margin: 1rem
+}
+
+.friend {
+  border: 1px solid black;
+  width:25%;
+  margin:0 auto;
+}
+.spinner {
+  margin: 8rem;
+}
